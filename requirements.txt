@@ -1,4 +1,4 @@
-numpy==1.24.0
+numpy==1.22.0
 googletrans
 pandas
 TTS==0.22.0
