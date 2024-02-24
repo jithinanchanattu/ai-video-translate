@@ -1,7 +1,7 @@
 numpy==1.24.0
 googletrans
 pandas
-TTS
+TTS==0.22.0
 altair
 pydeck
 streamlit
