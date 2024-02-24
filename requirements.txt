@@ -1,5 +1,7 @@
 altair
-numpy
 pandas
 pydeck
 streamlit
+TTS==0.3.0
+numpy==1.24.0
+googletrans==4.0.0-rc1
